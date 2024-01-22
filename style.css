@@ -1,0 +1,50 @@
+.container {
+    padding: 20px;
+    width: 700px;
+    box-shadow: 4px 5px 10px black;
+    background-color: antiquewhite;
+    margin: 50px auto;
+}
+
+#btn {
+    padding: 10px 20px;
+    font-size: large;
+    margin: 10px 25px 10px 25px;
+    width: 90%;
+
+}
+
+#btn:hover {
+    background-color: bisque;
+    cursor: pointer;
+
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+    width: 90%;
+}
+
+table {
+    width: 100%;
+    margin-top: 50px;
+
+}
+
+table,
+th,
+td {
+    padding: 10px;
+    text-align: center;
+    border: 3px solid yellowgreen;
+    border-collapse: collapse;
+}
+
+#edit-title{
+    color: black;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 20px;
+}
